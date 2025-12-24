@@ -33,8 +33,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-EVENT DAY
 ```
+EVENT DAY
 <!DOCTYPE html>
 <html lang="en">
 <head>
